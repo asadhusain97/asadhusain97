@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asad.
-- 🌱 I’m a data science professional with 2 years of experience.
+- 🌱 I’m a data science professional working since 2019.
 - 🔨 Go through my repositories to see my DS projects.
 - ☘️ Tools: Python, R, SQL, Tableau
 - 🤹🏽 Skills: Machine Learning, Visualization, Time series forecasting, Deep Learning

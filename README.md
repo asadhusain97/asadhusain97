@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @asadperson
+- 👋 Hi, I’m Asad.
+- 🌱 I’m a data science professional with 2 years of experience.
 - 👀 I’m interested in everything data.
-- 🌱 I’m currently learning statistics and python.
-- 💞️ I’m looking to collaborate on anything interesting.
+- 💞️ Happy to collaborate on anything interesting.
 - 📫 Search for asadhusain97 on LinkedIn.
 
 <!---

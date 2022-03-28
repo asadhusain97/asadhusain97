@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Asad.
 - 🌱 I’m a data science professional with 2 years of experience.
-- 👀 I’m interested in everything data.
-- 💞️ Happy to collaborate on anything interesting.
+- 🔨 Go through my repositories to see my DS projects.
+- 🤹🏽 Skills: Python, R, SQL, Tableau, Power BI
 - 📫 Search for asadhusain97 on LinkedIn.
 
 <!---

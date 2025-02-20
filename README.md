@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Asad.
-- 🌱 I’m a data science professional working since 2019.
-- 🔨 Go through my repositories to see my DS projects.
-- ☘️ Tools: Python, R, SQL, Tableau
-- 🤹🏽 Skills: Machine Learning, Time series forecasting, Deep Learning
+# 👋 Hi, I’m Asad.
+- 🌱 I’m a data science professional since 2019.
+- 🔨 Feel free to go through my repos to check my vibe.
+- ☘️ Tools: Python, SQL primarily and others for fun sometimes
+- 🤹🏽 Skills: Machine Learning, Time series forecasting, Deep Learning, web development, app development, automation
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/asadhusain97/ "Asad's LinkedIn")
 
 <!---
